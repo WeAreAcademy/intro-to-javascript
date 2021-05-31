@@ -1,0 +1,9 @@
+set word to "coding"
+
+print "Here's how you spell the word:"
+
+for each letter in word
+  set capitalised_letter to uppercase of letter
+  print capitalised_letter
+
+print "Easy as that!"
