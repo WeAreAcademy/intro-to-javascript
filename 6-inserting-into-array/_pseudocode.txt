@@ -1,0 +1,8 @@
+set lyrics to empty list
+
+for each number from 1 to 5
+  insert number at end of lyrics list
+
+append "Once I caught a fish alive!" to lyrics
+
+print lyrics
