@@ -1,0 +1,10 @@
+set name to "Richard"
+
+print "Hi, <name>!"
+
+if name has more than 8 characters
+  print "I'd say that your name is quite long!"
+else if name has more than 5 characters
+  print "I'd say that your name is an average length."
+else
+  print "I'd say that your name is quite short!"
