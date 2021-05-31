@@ -1,0 +1,5 @@
+set numerator to 12
+set denominator to 3
+set result to numerator divided by denominator
+
+print "<numerator> divided by <denominator> is <result>"
